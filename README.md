@@ -18,8 +18,11 @@ Steam Cities: Skyline Road Assets.
 ## RJs Road - Small List
 
 |Name (Grid / Parking)|Normal|Front|Alley White|Alley Yellow|One Way|
-|:---|:---:|---:|:---|:---:|---:| 
-|1 (1.5 / X)|||<img src="_CSL_asset_thumb/_Small/asset_thumb%20Small%201%20AW.png" width="100">|<img src="_CSL_asset_thumb/_Small/asset_thumb%20Small%201%20AW.png" width="100">|<img src="_CSL_asset_thumb/_Small/asset_thumb%20Small%201%20AW.png" width="100">|
+|---:|:---:|:---:|:---:|:---:|:---:| 
+|1 (1.5 / X)|||<img src="_CSL_asset_thumb/_Small/asset_thumb Small AW.png" width="100">|<img src="_CSL_asset_thumb/_Small/asset_thumb Small AY.png" width="100">|<img src="_CSL_asset_thumb/_Small/asset_thumb%20Small%201%20AW.png" width="100">|
+|1+1 (2 / O)|||<img src="_CSL_asset_thumb/_Small/asset_thumb%20Small%201%20AW.png" width="100">|<img src="_CSL_asset_thumb/_Small/asset_thumb%20Small%201%20AW.png" width="100">|<img src="_CSL_asset_thumb/_Small/asset_thumb%20Small%201%20AW.png" width="100">|
+|1+2 (2 / X)||||||
+|2+2 (2 / X)||||||
 |Name (Grid / Parking)|Normal|Front|Alley White|Alley Yellow|One Way|
 
 
