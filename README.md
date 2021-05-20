@@ -31,9 +31,9 @@ https://steamcommunity.com/workshop/filedetails/?id=2483978911
 
 |Name (Grid / Parking)|Normal|Surface|Median (Concrete)|Median (Grass)|
 |---:|:---:|:---:|:---:|:---:|
-|2+2 (5 / X)||<img src="_CSL_asset_thumb/_Medium/asset_thumb Medium 2+2 S.png" width="100">|<img src="_CSL_asset_thumb/_Medium/asset_thumb Medium 2+2 MC.png" width="100">|<img src="_CSL_asset_thumb/_Medium/asset_thumb Medium 2+2 MG.png" width="100">|
-|2+3 (5 / X)||<img src="_CSL_asset_thumb/_Medium/asset_thumb Medium 2+3 S.png" width="100">|<img src="_CSL_asset_thumb/_Medium/asset_thumb Medium 2+3 MC.png" width="100">|<img src="_CSL_asset_thumb/_Medium/asset_thumb Medium 2+3 MG.png" width="100">|
-|2+4 (5 / X)|<img src="_CSL_asset_thumb/_Medium/asset_thumb Medium 2+4.png" width="100">||||
+|2+2 (4 / X)||<img src="_CSL_asset_thumb/_Medium/asset_thumb Medium 2+2 S.png" width="100">|<img src="_CSL_asset_thumb/_Medium/asset_thumb Medium 2+2 MC.png" width="100">|<img src="_CSL_asset_thumb/_Medium/asset_thumb Medium 2+2 MG.png" width="100">|
+|2+3 (4 / X)||<img src="_CSL_asset_thumb/_Medium/asset_thumb Medium 2+3 S.png" width="100">|<img src="_CSL_asset_thumb/_Medium/asset_thumb Medium 2+3 MC.png" width="100">|<img src="_CSL_asset_thumb/_Medium/asset_thumb Medium 2+3 MG.png" width="100">|
+|2+4 (4 / X)|<img src="_CSL_asset_thumb/_Medium/asset_thumb Medium 2+4.png" width="100">||||
 
 ### RJs Road - Large (Next)
 
