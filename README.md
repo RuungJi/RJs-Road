@@ -34,7 +34,7 @@ https://steamcommunity.com/workshop/filedetails/?id=2483978911
 |2+2 (5 / X)||<img src="_CSL_asset_thumb/_Medium/asset_thumb Medium 2+2 S.png" width="100">|<img src="_CSL_asset_thumb/_Medium/asset_thumb Medium 2+2 MC.png" width="100">|<img src="_CSL_asset_thumb/_Medium/asset_thumb Medium 2+2 MG.png" width="100">|
 |2+3 (5 / X)||<img src="_CSL_asset_thumb/_Medium/asset_thumb Medium 2+3 S.png" width="100">|<img src="_CSL_asset_thumb/_Medium/asset_thumb Medium 2+3 MC.png" width="100">|<img src="_CSL_asset_thumb/_Medium/asset_thumb Medium 2+3 MG.png" width="100">|
 |2+4 (5 / X)|<img src="_CSL_asset_thumb/_Medium/asset_thumb Medium 2+4.png" width="100">||||
-asset_thumb Medium 2+2 MC.png
+
 ### RJs Road - Large (Next)
 
 |Name (Grid / Parking)|Normal|Front|U Turn|
