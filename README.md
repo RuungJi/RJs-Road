@@ -27,8 +27,15 @@ https://steamcommunity.com/workshop/filedetails/?id=2483978911
 |1+2 (2 / X)|<img src="_CSL_asset_thumb/_Small/asset_thumb Small 1+2.png" width="100">|<img src="_CSL_asset_thumb/_Small/asset_thumb Small 1+2 Front.png" width="100">|||<img src="_CSL_asset_thumb/_Small/asset_thumb Small 1+2 OW.png" width="100">|
 |2+2 (2 / X)|<img src="_CSL_asset_thumb/_Small/asset_thumb Small 2+2.png" width="100">|<img src="_CSL_asset_thumb/_Small/asset_thumb Small 2+2 Front.png" width="100">|||<img src="_CSL_asset_thumb/_Small/asset_thumb Small 2+2 OW.png" width="100">|
 
+### RJs Road - Medium (Not yet)
 
-### RJs Road - Large (Not yet)
+|Name (Grid / Parking)|Normal|Surface|Median (Concrete)|Median (Grass)|
+|---:|:---:|:---:|:---:|
+|2+2 (5 / X)||<img src="_CSL_asset_thumb/_Large/asset_thumb Medium 2+2 S.png" width="100">|<img src="_CSL_asset_thumb/_Large/asset_thumb Medium 2+2 MC.png" width="100">|<img src="_CSL_asset_thumb/_Large/asset_thumb Medium 2+2 MG.png" width="100">|
+|2+3 (5 / X)||<img src="_CSL_asset_thumb/_Large/asset_thumb Medium 2+3 S.png" width="100">|<img src="_CSL_asset_thumb/_Large/asset_thumb Medium 2+3 MC.png" width="100">|<img src="_CSL_asset_thumb/_Large/asset_thumb Medium 2+3 MG.png" width="100">|
+|2+4 (5 / X)|<img src="_CSL_asset_thumb/_Large/asset_thumb Medium 2+4.png" width="100">||||
+asset_thumb Medium 2+2 MC.png
+### RJs Road - Large (Next)
 
 |Name (Grid / Parking)|Normal|Front|U Turn|
 |---:|:---:|:---:|:---:|
@@ -38,7 +45,18 @@ https://steamcommunity.com/workshop/filedetails/?id=2483978911
 |4+5 (4.75 / X)||||
 |5+5 (5 / X)||||
 
-_CSL_asset_thumb/_Large/asset_thumb Large 3+3 Front.png
+### RJs Road - Overpass/Underpass (Not yet)
+
+|Name (Grid / Parking)|Normal||
+|---:|:---:|:---:|
+||||
+
+### RJs Road - BRT (Not yet)
+
+|Name (Grid / Parking)|Normal||
+|---:|:---:|:---:|
+||||
+
 
 ## 도로 라인과 횡단보도의 관계
 
