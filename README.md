@@ -28,6 +28,18 @@ https://steamcommunity.com/workshop/filedetails/?id=2483978911
 |2+2 (2 / X)|<img src="_CSL_asset_thumb/_Small/asset_thumb Small 2+2.png" width="100">|<img src="_CSL_asset_thumb/_Small/asset_thumb Small 2+2 Front.png" width="100">|||<img src="_CSL_asset_thumb/_Small/asset_thumb Small 2+2 OW.png" width="100">|
 
 
+### RJs Road - Large (Not yet)
+
+|Name (Grid / Parking)|Normal|Front|U Turn|
+|---:|:---:|:---:|:---:|
+|3+3 (4 / X)|<img src="_CSL_asset_thumb/_Large/asset_thumb Large 3+3.png" width="100">|<img src="_CSL_asset_thumb/_Large/asset_thumb Large 3+3 Front.png" width="100">|<img src="_CSL_asset_thumb/_Large/asset_thumb Large 3+3 UT.png" width="100">|
+|3+4 (4.25 / X)|<img src="" width="100">|<img src="_CSL_asset_thumb/_Large/asset_thumb Large 3+4.png" width="100">||
+|4+4 (4.5 / X)|<img src="_CSL_asset_thumb/_Large/asset_thumb Large 4+4 Front.png" width="100">|<img src="_CSL_asset_thumb/_Large/asset_thumb Large 4+4 Front.png" width="100">|<img src="_CSL_asset_thumb/_Large/asset_thumb Large 4+4 UT.png" width="100">|
+|4+5 (4.75 / X)||||
+|5+5 (5 / X)||||
+
+_CSL_asset_thumb/_Large/asset_thumb Large 3+3 Front.png
+
 ## 도로 라인과 횡단보도의 관계
 
 ### Basic 
