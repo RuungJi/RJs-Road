@@ -17,13 +17,15 @@ Steam Cities: Skyline Road Assets.
 
 ## RJs Road - Small List
 
+### RJs Road - Small (Korea) [TEST]
+https://steamcommunity.com/workshop/filedetails/?id=2483978911
+
 |Name (Grid / Parking)|Normal|Front|Alley White|Alley Yellow|One Way|
 |---:|:---:|:---:|:---:|:---:|:---:| 
 |1 (1.5 / X)|||<img src="_CSL_asset_thumb/_Small/asset_thumb Small 1 AW.png" width="100">|<img src="_CSL_asset_thumb/_Small/asset_thumb Small 1 AY.png" width="100">|<img src="_CSL_asset_thumb/_Small/asset_thumb Small 1 OneWay.png" width="100">|
 |1+1 (2 / O)|<img src="_CSL_asset_thumb/_Small/asset_thumb Small 1+1.png" width="100">||<img src="_CSL_asset_thumb/_Small/asset_thumb Small 1+1 AW.png" width="100">|<img src="_CSL_asset_thumb/_Small/asset_thumb Small 1+1 AY.png" width="100">|<img src="_CSL_asset_thumb/_Small/asset_thumb Small 1+1 OW.png" width="100">|
 |1+2 (2 / X)|<img src="_CSL_asset_thumb/_Small/asset_thumb Small 1+2.png" width="100">|<img src="_CSL_asset_thumb/_Small/asset_thumb Small 1+2 Front.png" width="100">|||<img src="_CSL_asset_thumb/_Small/asset_thumb Small 1+2 OW.png" width="100">|
 |2+2 (2 / X)|<img src="_CSL_asset_thumb/_Small/asset_thumb Small 2+2.png" width="100">|<img src="_CSL_asset_thumb/_Small/asset_thumb Small 2+2 Front.png" width="100">|||<img src="_CSL_asset_thumb/_Small/asset_thumb Small 2+2 OW.png" width="100">|
-|Name (Grid / Parking)|Normal|Front|Alley White|Alley Yellow|One Way|
 
 
 ## 도로 라인과 횡단보도의 관계
