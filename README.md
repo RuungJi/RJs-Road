@@ -17,9 +17,8 @@ Steam Cities: Skyline Road Assets.
 
 ## RJs Road - Small List
 
-|왼쪽 정렬|가운데 정렬|오른쪽 정렬| 
-|:---|:---:|---:| 
-|1 (1.5 / X)|<img src="https://github.com/RuungJi/RJs_Road/blob/main/_CSL_asset_thumb/_Small/asset_thumb%20Small%201%20AW.png" width="300">|내용3| 
+|Name (Grid / Parking)|Normal|Front|Alley White|Alley Yellow|One Way|
+|1 (1.5 / X)|<img src="_CSL_asset_thumb/_Small/asset_thumb%20Small%201%20AW.png" width="100">|내용3| 
 |내용1|내용2|내용3| 
 
 
