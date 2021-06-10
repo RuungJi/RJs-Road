@@ -22,28 +22,28 @@ https://steamcommunity.com/workshop/filedetails/?id=2483978911
 
 |Name (Grid / Parking)|Normal|Front|Alley White|Alley Yellow|One Way|
 |---:|:---:|:---:|:---:|:---:|:---:| 
-|1 (1.5 / X)|||<img src="_CSL_asset_thumb/_Small/asset_thumb Small 1 AW.png" width="100">|<img src="_CSL_asset_thumb/_Small/asset_thumb Small 1 AY.png" width="100">|<img src="_CSL_asset_thumb/_Small/asset_thumb Small 1 OneWay.png" width="100">|
-|1+1 (2 / O)|<img src="_CSL_asset_thumb/_Small/asset_thumb Small 1+1.png" width="100">||<img src="_CSL_asset_thumb/_Small/asset_thumb Small 1+1 AW.png" width="100">|<img src="_CSL_asset_thumb/_Small/asset_thumb Small 1+1 AY.png" width="100">|<img src="_CSL_asset_thumb/_Small/asset_thumb Small 1+1 OW.png" width="100">|
-|1+2 (2 / X)|<img src="_CSL_asset_thumb/_Small/asset_thumb Small 1+2.png" width="100">|<img src="_CSL_asset_thumb/_Small/asset_thumb Small 1+2 Front.png" width="100">|||<img src="_CSL_asset_thumb/_Small/asset_thumb Small 1+2 OW.png" width="100">|
-|2+2 (2 / X)|<img src="_CSL_asset_thumb/_Small/asset_thumb Small 2+2.png" width="100">|<img src="_CSL_asset_thumb/_Small/asset_thumb Small 2+2 Front.png" width="100">|||<img src="_CSL_asset_thumb/_Small/asset_thumb Small 2+2 OW.png" width="100">|
+|1 (1.5 / X)|||<img src="_CSL_asset_thumb/_Small_web/asset_thumb Small 1 AW.png" width="100">|<img src="_CSL_asset_thumb/_Small_web/asset_thumb Small 1 AY.png" width="100">|<img src="_CSL_asset_thumb/_Small_web/asset_thumb Small 1 OneWay.png" width="100">|
+|1+1 (2 / O)|<img src="_CSL_asset_thumb/_Small_web/asset_thumb Small 1+1.png" width="100">||<img src="_CSL_asset_thumb/_Small_web/asset_thumb Small 1+1 AW.png" width="100">|<img src="_CSL_asset_thumb/_Small_web/asset_thumb Small 1+1 AY.png" width="100">|<img src="_CSL_asset_thumb/_Small_web/asset_thumb Small 1+1 OW.png" width="100">|
+|1+2 (2 / X)|<img src="_CSL_asset_thumb/_Small_web/asset_thumb Small 1+2.png" width="100">|<img src="_CSL_asset_thumb/_Small_web/asset_thumb Small 1+2 Front.png" width="100">|||<img src="_CSL_asset_thumb/_Small_web/asset_thumb Small 1+2 OW.png" width="100">|
+|2+2 (2 / X)|<img src="_CSL_asset_thumb/_Small_web/asset_thumb Small 2+2.png" width="100">|<img src="_CSL_asset_thumb/_Small_web/asset_thumb Small 2+2 Front.png" width="100">|||<img src="_CSL_asset_thumb/_Small_web/asset_thumb Small 2+2 OW.png" width="100">|
 
 ### RJs Road - Medium (Not yet)
 
 |Name (Grid / Parking)|Normal|Surface|Median (Concrete)|Median (Grass)|
 |---:|:---:|:---:|:---:|:---:|
-|2+2 (4 / X)||<img src="_CSL_asset_thumb/_Medium/asset_thumb Medium 2+2 S.png" width="100">|<img src="_CSL_asset_thumb/_Medium/asset_thumb Medium 2+2 MC.png" width="100">|<img src="_CSL_asset_thumb/_Medium/asset_thumb Medium 2+2 MG.png" width="100">|
-|2+3 (4 / X)||<img src="_CSL_asset_thumb/_Medium/asset_thumb Medium 2+3 S.png" width="100">|<img src="_CSL_asset_thumb/_Medium/asset_thumb Medium 2+3 MC.png" width="100">|<img src="_CSL_asset_thumb/_Medium/asset_thumb Medium 2+3 MG.png" width="100">|
-|2+4 (4 / X)|<img src="_CSL_asset_thumb/_Medium/asset_thumb Medium 2+4.png" width="100">||||
+|2+2 (4 / X)||<img src="_CSL_asset_thumb/_Medium_web/asset_thumb Medium 2+2 S.png" width="100">|<img src="_CSL_asset_thumb/_Medium_web/asset_thumb Medium 2+2 MC.png" width="100">|<img src="_CSL_asset_thumb/_Medium_web/asset_thumb Medium 2+2 MG.png" width="100">|
+|2+3 (4 / X)||<img src="_CSL_asset_thumb/_Medium_web/asset_thumb Medium 2+3 S.png" width="100">|<img src="_CSL_asset_thumb/_Medium_web/asset_thumb Medium 2+3 MC.png" width="100">|<img src="_CSL_asset_thumb/_Medium_web/asset_thumb Medium 2+3 MG.png" width="100">|
+|2+4 (4 / X)|<img src="_CSL_asset_thumb/_Medium_web/asset_thumb Medium 2+4.png" width="100">||||
 
 ### RJs Road - Large (Next)
 
 |Name (Grid / Parking)|Normal|Front|U Turn|
 |---:|:---:|:---:|:---:|
-|3+3 (4 / X)|<img src="_CSL_asset_thumb/_Large/asset_thumb Large 3+3.png" width="100">|<img src="_CSL_asset_thumb/_Large/asset_thumb Large 3+3 Front.png" width="100">|<img src="_CSL_asset_thumb/_Large/asset_thumb Large 3+3 UT.png" width="100">|
-|3+4 (4.25 / X)|<img src="_CSL_asset_thumb/_Large/asset_thumb Large 3+4.png" width="100">|<img src="_CSL_asset_thumb/_Large/asset_thumb Large 3+4 Front.png" width="100">||
-|4+4 (4.5 / X)|<img src="_CSL_asset_thumb/_Large/asset_thumb Large 4+4 Front.png" width="100">|<img src="_CSL_asset_thumb/_Large/asset_thumb Large 4+4 Front.png" width="100">|<img src="_CSL_asset_thumb/_Large/asset_thumb Large 4+4 UT.png" width="100">|
-|4+5 (4.75 / X)|<img src="_CSL_asset_thumb/_Large/asset_thumb Large 4+5.png" width="100">|<img src="_CSL_asset_thumb/_Large/asset_thumb Large 4+5 Front.png" width="100">||
-|5+5 (5 / X)|<img src="_CSL_asset_thumb/_Large/asset_thumb Large 5+5.png" width="100">|<img src="_CSL_asset_thumb/_Large/asset_thumb Large 5+5 Front.png" width="100">|<img src="_CSL_asset_thumb/_Large/asset_thumb Large 5+5 UT.png" width="100">|
+|3+3 (4 / X)|<img src="_CSL_asset_thumb/_Large_web/asset_thumb Large 3+3.png" width="100">|<img src="_CSL_asset_thumb/_Large_web/asset_thumb Large 3+3 Front.png" width="100">|<img src="_CSL_asset_thumb/_Large_web/asset_thumb Large 3+3 UT.png" width="100">|
+|3+4 (4.25 / X)|<img src="_CSL_asset_thumb/_Large_web/asset_thumb Large 3+4.png" width="100">|<img src="_CSL_asset_thumb/_Large_web/asset_thumb Large 3+4 Front.png" width="100">||
+|4+4 (4.5 / X)|<img src="_CSL_asset_thumb/_Large_web/asset_thumb Large 4+4 Front.png" width="100">|<img src="_CSL_asset_thumb/_Large_web/asset_thumb Large 4+4 Front.png" width="100">|<img src="_CSL_asset_thumb/_Large_web/asset_thumb Large 4+4 UT.png" width="100">|
+|4+5 (4.75 / X)|<img src="_CSL_asset_thumb/_Large_web/asset_thumb Large 4+5.png" width="100">|<img src="_CSL_asset_thumb/_Large_web/asset_thumb Large 4+5 Front.png" width="100">||
+|5+5 (5 / X)|<img src="_CSL_asset_thumb/_Large_web/asset_thumb Large 5+5.png" width="100">|<img src="_CSL_asset_thumb/_Large_web/asset_thumb Large 5+5 Front.png" width="100">|<img src="_CSL_asset_thumb/_Large_web/asset_thumb Large 5+5 UT.png" width="100">|
 
 ### RJs Road - Overpass/Underpass (Not yet)
 
