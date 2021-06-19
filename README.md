@@ -27,7 +27,8 @@ https://steamcommunity.com/workshop/filedetails/?id=2483978911
 |1+2 (2 / X)|<img src="_CSL_asset_thumb/_Small_web/asset_thumb Small 1+2.png" width="100">|<img src="_CSL_asset_thumb/_Small_web/asset_thumb Small 1+2 Front.png" width="100">|||<img src="_CSL_asset_thumb/_Small_web/asset_thumb Small 1+2 OW.png" width="100">|
 |2+2 (2 / X)|<img src="_CSL_asset_thumb/_Small_web/asset_thumb Small 2+2.png" width="100">|<img src="_CSL_asset_thumb/_Small_web/asset_thumb Small 2+2 Front.png" width="100">|||<img src="_CSL_asset_thumb/_Small_web/asset_thumb Small 2+2 OW.png" width="100">|
 
-### RJs Road - Medium (Not yet)
+### RJs Road - Large (Korea) [TEST]
+https://steamcommunity.com/sharedfiles/filedetails/?id=2512883237
 
 |Name (Grid / Parking)|Normal|Surface|Median (Concrete)|Median (Grass)|
 |---:|:---:|:---:|:---:|:---:|
@@ -43,7 +44,6 @@ https://steamcommunity.com/workshop/filedetails/?id=2483978911
 |3+4 (4.25 / X)|<img src="_CSL_asset_thumb/_Large_web/asset_thumb Large 3+4.png" width="100">|<img src="_CSL_asset_thumb/_Large_web/asset_thumb Large 3+4 Front.png" width="100">||
 |4+4 (4.5 / X)|<img src="_CSL_asset_thumb/_Large_web/asset_thumb Large 4+4 Front.png" width="100">|<img src="_CSL_asset_thumb/_Large_web/asset_thumb Large 4+4 Front.png" width="100">|<img src="_CSL_asset_thumb/_Large_web/asset_thumb Large 4+4 UT.png" width="100">|
 |4+5 (4.75 / X)|<img src="_CSL_asset_thumb/_Large_web/asset_thumb Large 4+5.png" width="100">|<img src="_CSL_asset_thumb/_Large_web/asset_thumb Large 4+5 Front.png" width="100">||
-|5+5 (5 / X)|<img src="_CSL_asset_thumb/_Large_web/asset_thumb Large 5+5.png" width="100">|<img src="_CSL_asset_thumb/_Large_web/asset_thumb Large 5+5 Front.png" width="100">|<img src="_CSL_asset_thumb/_Large_web/asset_thumb Large 5+5 UT.png" width="100">|
 
 ### RJs Road - Overpass/Underpass (Not yet)
 
