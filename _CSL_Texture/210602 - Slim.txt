@@ -1,0 +1,6 @@
+2+2
+pedestrian position 9.5 0.7
+  street light position 0.7
+2 Lane position 6.1/3
+1 Lane position 2.15/3
+
